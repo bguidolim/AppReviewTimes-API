@@ -5,4 +5,3 @@ vendor
 app/logs/*.log
 *~
 .idea
-app.db

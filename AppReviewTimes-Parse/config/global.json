@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "AppReviewTimes": {
+      "applicationId": "pYVHYPd6vO4f3cVY7qv5xgu3z1Ov9sKa5CJ0W2QR",
+      "masterKey": "nSvembfd30ZafKOHCzWd1T7aFBHazTfbdvajPgN4"
+    },
+    "_default": {
+      "link": "AppReviewTimes"
+    }
+  }
+}
